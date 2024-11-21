@@ -1,6 +1,6 @@
 public class Main {
     public static void main(String[] args) {
-        //1st tassk
+        //1st task
         int number = 5;
         int square = ToSquare(number);
         System.out.println("Квадрат числа "+number +" дорівнює = "+square);
